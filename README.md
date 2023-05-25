@@ -11,3 +11,5 @@ A tool to help newbie terps easily find the buildings where their classes will b
 <img width="641" alt="Screenshot 2023-05-25 at 12 57 13 PM" src="https://github.com/1onQ/Terpal/assets/58226227/4bb8f84c-3d7d-4380-8158-01c4e8e85b3e">
 <img width="641" alt="Screenshot 2023-05-25 at 12 57 25 PM" src="https://github.com/1onQ/Terpal/assets/58226227/6546f45b-30e6-4e1e-9c28-65ea8d493e95">
 <img width="647" alt="Screenshot 2023-05-25 at 12 57 38 PM" src="https://github.com/1onQ/Terpal/assets/58226227/14151ee8-5efe-48b2-9625-25efbae7d286">
+
+<img width="643" alt="Screenshot 2023-05-25 at 12 57 48 PM" src="https://github.com/1onQ/Terpal/assets/58226227/634d457a-1dd9-4257-b849-41db76eba05d">
